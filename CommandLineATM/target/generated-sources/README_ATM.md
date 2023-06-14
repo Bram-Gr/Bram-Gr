@@ -12,4 +12,4 @@
 [//]: # (![img.png]&#40;&#41;)
 <br>
 
-<center><img height="1300" src="C:\Users\Student\workspace\Bram-Gr\CommandLineATM.drawio.png" width="900"/></center>
+<center><img height="1400" src="C:\Users\Student\workspace\Bram-Gr\CommandLineATM.drawio.png" width="2000"/></center>
