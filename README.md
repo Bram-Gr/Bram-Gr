@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi all! My name is Bram Groen and I'm an aspiring full-stack developer. I recently completed a three month coding bootcamp with Tech Elevator and am excited to get started in this amazing industry! 
+Hi all! My name is Bram Groen, full-stack developer. I have experience in Java, C#, RDBMS, Vue, and Power Apps
 
 - 👯 I’m looking to collaborate on any projects that develop my skill sets.
-- 🤔 I’m excited to progress with my Java skills and branch out to other backend languages as well.
+- 🤔 I’m excited to progress with my OOP knowledge and look forward to contributing on projects in this space.
 - 💬 Ask me about anything, I'm an open book and love to collaborate!
